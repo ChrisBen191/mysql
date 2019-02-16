@@ -47,19 +47,19 @@ def welcome():
     <li>
     List of precipitations from last year:
     <br>
-    <a href="/api/v1.0/precipitation">/api/v1.0/precipitation</a>
+    <a href="/api/v1.0/precipitation">Precipitation Data</a>
     </li>
     <br>
     <li>
     List of stations from the dataset: 
     <br>
-   <a href="/api/v1.0/stations">/api/v1.0/stations</a>
+   <a href="/api/v1.0/stations">Station Data</a>
    </li>
     <br>
     <li>
-    List of Temperature Observations (tobs) for the previous year:
+    List of Temperature Observations for the previous year:
     <br>
-    <a href="/api/v1.0/tobs">/api/v1.0/tobs</a>
+    <a href="/api/v1.0/tobs">Temperature Observations Data</a>
     </li>
     </ul>
     </html>
